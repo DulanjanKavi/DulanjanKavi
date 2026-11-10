@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dulanjan Liyanaarachchi 👋</h1>
+<h1 align="center">Hi, I'm Dulanjan K. Liyanaarachchi 👋</h1>
 
 <p align="center">
   <b>Machine Learning Engineer</b> · Sri Lanka 🇱🇰<br/>
